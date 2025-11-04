@@ -1,0 +1,28 @@
+TODO
+1. window using classes
+2. encrypter and dycrypter which works on the editor and using a diff window also
+3. changing and importing new font
+4. chainging font size
+5. allignment
+6. word and char count
+7. line and col count
+8. find and replace words
+9. importing and chaning themes add default dark and light theme
+10. add check boxes , make a TODO list as a default
+11. save files and opening files
+12. closing ({<[
+13 adding scroll bar
+14. adding B I and underlined text
+15.displaying the extention of the file
+16. autosave for every change made
+17.add and expenditure tracker and encrypt it by default
+18. if possible notes
+____________________________________________________________________
+MORE FEATURES
+19.add graph for expenditure tracker(matplotlib)
+20.add progress bar for todo list
+21.add settings menu to toggle on or off the weird features like 12,
+22.spell check using (pyspellchecker)
+23.add templates
+24.highlet some default words like TODO , today ,..
+25.undo redo
